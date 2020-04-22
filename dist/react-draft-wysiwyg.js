@@ -1,4 +1,4 @@
-!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t(require("react"),require("draft-js"),require("immutable")):"function"==typeof define&&define.amd?define(["react","draft-js","immutable"],t):"object"==typeof exports?exports.reactDraftWysiwyg=t(require("react"),require("draft-js"),require("immutable")):e.reactDraftWysiwyg=t(e.react,e["draft-js"],e.immutable)}(window,function(n,o,r){return c={},i.m=a=[function(e,t,n){e.exports=n(9)()},function(e,t){e.exports=n},function(e,t,n){var o;
+if (typeof window === 'undefined') { global.window = {}}!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports=t(require("react"),require("draft-js"),require("immutable")):"function"==typeof define&&define.amd?define(["react","draft-js","immutable"],t):"object"==typeof exports?exports.reactDraftWysiwyg=t(require("react"),require("draft-js"),require("immutable")):e.reactDraftWysiwyg=t(e.react,e["draft-js"],e.immutable)}(window,function(n,o,r){return c={},i.m=a=[function(e,t,n){e.exports=n(9)()},function(e,t){e.exports=n},function(e,t,n){var o;
 /*!
   Copyright (c) 2017 Jed Watson.
   Licensed under the MIT License (MIT), see
